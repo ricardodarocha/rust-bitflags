@@ -25,7 +25,7 @@ An example of using bitflags - boolean operations between bits, the variable as 
 
 ## Introduction
 
-You can have bit operations beteen two numbers (usize) using the native cast to binary {:0b0}
+You can have bit operations between two numbers (usize) using the native cast to binary {:0b0}
 
 **Example**
 ```rust
