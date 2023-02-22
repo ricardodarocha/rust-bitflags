@@ -84,7 +84,7 @@ Operator Overloading to implement BitOr for usize
 
 ## Contato
 
-> Linkedin [ricardo-da-rocha-vitor](https://www.linkedin.com/in/ricardo-da-rocha-vitor-a0983932/)
+> Linkedin [ricardo-da-rocha-vitor](https://www.linkedin.com/in/ricardo-da-rocha-vitor-a0983932/) •
 > Site [ricardodarocha.com.br](https://www.ricardodarocha.com.br) &nbsp;&middot;&nbsp;
 > GitHub [@ricardodarocha](https://github.com/ricardodarocha) &nbsp;&middot;&nbsp;
 > Twitter [@ricardorochadev](https://twitter.com/ricardorochadev)
