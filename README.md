@@ -45,7 +45,7 @@ fn is_filled(num: usize, offset: u8) -> bool {
 
 ## How to use
 
-Clone this repositorio [Git](https://github.com/ricardodarocha/rust-bitflags.git) 
+Clone this repositorio [Git](https://github.com/ricardodarocha/rust-bitflags.git)   
 Run `cargo check cargo run`
 
 ```bash
