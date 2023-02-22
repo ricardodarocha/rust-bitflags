@@ -73,9 +73,9 @@ This software uses pure Rust language
 
 ## Resources
 
-bit operations
-Operator Overloading to implement BitOr for a struct
-Operator Overloading to implement BitOr for usize
+bit operations  
+Operator Overloading to implement BitOr for a struct  
+Operator Overloading to implement BitOr for usize  
 
 
 ## Related
