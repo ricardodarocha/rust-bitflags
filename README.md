@@ -71,9 +71,6 @@ No binary yet
 
 This software uses pure Rust language
 
-- [sqlx](https://docs.rs/sqlx/latest/sqlx)
-- [rocket](https://crates.io/crates/rocket)
-
 ## Resources
 
 bit operations
