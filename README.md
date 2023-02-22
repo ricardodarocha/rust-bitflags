@@ -30,6 +30,16 @@ You can have bit operations beteen two numbers (usize) using the native cast to 
 **Example**
 ```rust
 
+//Marca o enésimo bit como true
+fn fill(num: usize, offset: u8) -> usize {
+  if offset > 8 {panic!("Passou do limite")};
+    num | (1 << offset)
+}
+
+//Verifica se o enésimo bit é true
+fn is_filled(num: usize, offset: u8) -> bool {
+    (num & (1 << offset)) != 0
+}
 
 ```
 
@@ -55,7 +65,7 @@ $ cargo run
 
 ## Download
 
-No binary yut
+No binary yet
 
 ## Credits
 
